@@ -18,4 +18,4 @@ the ***train*** and ***test*** functions for the model training and testing resp
 
 ## Training Results
 The model was trained for 5 epoch, with the metrics plotted below.
-![image](https://github.com/Madhur-1/ERA-v1/assets/64495917/16be6c76-dfc6-48a0-8ebd-7c003addd4fd)
+![image](https://github.com/DhrubaAdhikary/ERA_V2/blob/e988ebe31a168e35ae7241d11bca96b644c84990/S5/assets/TRaining%20and%20Testing%20Plots.png)
