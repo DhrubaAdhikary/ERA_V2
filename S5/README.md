@@ -12,8 +12,9 @@ the ***train*** and ***test*** functions for the model training and testing resp
 ## Training Dataset
 ![image](https://github.com/DhrubaAdhikary/ERA_V2/blob/3678afeeef440cc36963ff4326926ce188a4a0de/S5/assets/Screenshot%202024-02-23%20at%203.33.31%E2%80%AFPM.png)
 
-## Model Summary
-<img width="478" alt="image" src="/Users/kvzm411/Desktop/ERA V2/ERA_V2/S5/assets/Screenshot 2024-02-23 at 3.36.54 PM.png">
+## Model Training Summary
+### Model has been Trained for 5 epochs only 
+<img width="478" alt="image" src="https://github.com/DhrubaAdhikary/ERA_V2/blob/0f9aef6641ecdad352c1bf19b53a04fdbfc62edb/S5/assets/Training.png">
 
 ## Training Results
 The model was trained for 5 epoch, with the metrics plotted below.
