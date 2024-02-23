@@ -10,7 +10,7 @@ For training the model, you just need to run the `S5.ipynb` file. The model is d
 the ***train*** and ***test*** functions for the model training and testing respectively along with the auxiliary function ***GetCorrectPredCount***.
 
 ## Training Dataset
-![image](/Users/kvzm411/Desktop/ERA V2/ERA_V2/S5/assets/Screenshot 2024-02-23 at 3.33.31 PM.png)
+![image](S5/assets/Screenshot 2024-02-23 at 3.33.31 PM.png)
 
 ## Model Summary
 <img width="478" alt="image" src="/Users/kvzm411/Desktop/ERA V2/ERA_V2/S5/assets/Screenshot 2024-02-23 at 3.36.54 PM.png">
