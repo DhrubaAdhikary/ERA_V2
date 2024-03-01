@@ -8,11 +8,17 @@ This assignment is focussed towards grasping Backpropagation and Architectural B
 
 This part involves using MS Excel to perform backprop on a arbitrary defined Neural network.
 
-![Alt text](image.png)
+![Alt text](https://github.com/DhrubaAdhikary/ERA_V2/blob/0cdecd83d9689992800f183b6e9d95183629b156/S6/Part1/comparing_lrs.png)
 
 The above screenshot depicts the training stat while varying the learning rates. We see that as we increase the learning rates we reach the saturation point faster.
 
 The directory also contains `Screenshot 1.png` and `Screenshot 2.png` depicting the working of the backprop algorithm.
+
+#### screenshot1
+![Alt text](https://github.com/DhrubaAdhikary/ERA_V2/blob/0cdecd83d9689992800f183b6e9d95183629b156/S6/Part1/Screenshot%201.png)
+
+#### screenshot2
+![Alt text](https://github.com/DhrubaAdhikary/ERA_V2/blob/0cdecd83d9689992800f183b6e9d95183629b156/S6/Part1/Screenshot%202.png)
 
 ## Part 2
 
