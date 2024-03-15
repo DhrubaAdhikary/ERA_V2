@@ -25,11 +25,11 @@
 
 ### Results
 - Parameters: 6,038
-- Best Train Accuracy 98.79%  
-- Best Test Accuracy 99.02%  
+- Best Train Accuracy 98.82%  
+- Best Test Accuracy 99.06%  
 
 ### Analysis
-- Model with 6K parameters is able to reach till 99.25% accuracy in 15 epochs.
+- Model with 6K parameters is able to reach till 99.06% accuracy in 15 epochs.
 - Model is not overfitting as training and test accuracies are closeby.
 
 ## Solution, Step 2 [Notebook](./ERA1_S7_step2.ipynb)
@@ -39,12 +39,13 @@
 
 ### Results
 - Parameters: 6,038
-- Best Train Accuracy 98.33%  
-- Best Test Accuracy 99.19%  
+- Best Train Accuracy 98.03%  
+- Best Test Accuracy 99.14%  
 
 ### Analysis
-- Model with 6K parameters is able to reach till 99.19% accuracy in 15 epochs.
-- Image augmentation doesn't show much improvement. It may be because of presense of dropout which effectively does similar function.
+- Model with 6K parameters is able to reach till 99.14% accuracy in 15 epochs.
+- Image augmentation doesn't show much improvement. It may be because of presense of dropout which effectively does similar function of regularising 
+
 
 ## Solution, Step 3 [Notebook](./ERA1_S7_step3.ipynb)
 
@@ -55,8 +56,8 @@
 
 ### Results
 - Parameters: 7,416
-- Best Train Accuracy 99.03%  
-- Best Test Accuracy 99.38%  
+- Best Train Accuracy 99.04%  
+- Best Test Accuracy 99.37%  
 
 ### Analysis
 - Model with 7.4K parameters is cross 99.38% accuracy in 15 epochs.
