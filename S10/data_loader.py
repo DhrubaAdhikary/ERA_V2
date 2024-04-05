@@ -6,7 +6,7 @@ import os
 
 import cv2
 
-from albumentations import Compose, PadIfNeeded, RandomCrop, Normalize, HorizontalFlip, ShiftScaleRotate, CoarseDropout,Cutout
+from albumentations import Compose, PadIfNeeded, RandomCrop, Normalize, HorizontalFlip, ShiftScaleRotate, CoarseDropout,cutout
 from albumentations.pytorch.transforms import ToTensorV2
 
 class album_Compose_train():
@@ -15,7 +15,7 @@ class album_Compose_train():
           PadIfNeeded(40),
           RandomCrop(32,32),
           HorizontalFlip(),
-          Cutout(num_holes=1, max_h_size=8, max_w_size=8, fill_value=[0.4914*255, 0.4822*255, 0.4471*255], always_apply=True, p=0.50),
+          cutout(num_holes=1, max_h_size=8, max_w_size=8, fill_value=[0.4914*255, 0.4822*255, 0.4471*255], always_apply=True, p=0.50),
 #             HorizontalFlip(),
 #             ShiftScaleRotate(),
 # #            Cutout(num_holes=1, max_h_size=8, max_w_size=8, fill_value=[0.4914*255, 0.4822*255, 0.4471*255], always_apply=True, p=1.00),
