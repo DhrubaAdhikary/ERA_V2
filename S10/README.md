@@ -64,8 +64,8 @@ Sample images,
 
 The model was trained for 24 epochs and achieved an accuracy of 91.34% on the test set. 
 
-Trainling accuracy: 94.90 %
-Test accuracy: 91.34 %
+Trainling accuracy: 93.176 %
+Test accuracy: 91.6 %
 
 ## 📊 Classwise Accuracy
 

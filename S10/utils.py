@@ -1,7 +1,7 @@
 # import necessary libraries
 import matplotlib.pyplot as plt
 import torch
-from data_loader import unnormalize
+from ERA_V2.S10.data_loader import unnormalize
 
 # define a function to plot misclassified images
 def plot_misclassified_images(model, test_loader, classes, device):
