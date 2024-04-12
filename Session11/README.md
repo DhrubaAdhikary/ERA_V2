@@ -1,4 +1,4 @@
-# 🌐 ERA1 Session 11 Assignment 🌐
+# 🌐 ERA2 Session 11 Assignment 🌐
 
 ## Problem Statement
 1. Check this Repo out: https://github.com/kuangliu/pytorch-cifar  
