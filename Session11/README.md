@@ -49,7 +49,7 @@
 This is a repository for the implementation of ResNet18 model on the CIFAR10 dataset. The implementation follows a structured approach with separate files for models, main code, and utilities.
 
 ## Main Repo and its File Structure
-[Main Repo Link](https://github.com/sujitojha1/pytorch-era1)  
+[Main Repo Link](https://github.com/DhrubaAdhikary/ERA_V2/tree/94580869712d7ee83fd2323334cb953d839d0436/pytorch-era2-main)  
 - `models` folder: contains the implementation of ResNet18 model.
     - `main.py`: the main file that trains the ResNet18 model on the CIFAR10 dataset and performs various operations such as data split, epochs, batch size, optimizer selection, and scheduler implementation.
     - `utils.py`: contains various utilities such as image transforms, gradcam, misclassification code, tensorboard related functionality, and advanced training policies.
