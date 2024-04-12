@@ -1,4 +1,4 @@
-# 🌐 ERA1 Session 10 Assignment 🌐
+# 🌐 ERAV2 Session 10 Assignment 🌐
 
 ## 📌 Table of Contents
 
