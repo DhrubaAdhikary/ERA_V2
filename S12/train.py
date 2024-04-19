@@ -57,6 +57,7 @@ if hyp['fl_gamma']:
 def train():
     cfg = opt.cfg
     data = opt.data
+    print(opt)
     epochs = opt.epochs  # 500200 batches at bs 64, 117263 images = 273 epochs
     batch_size = opt.batch_size
     accumulate = opt.accumulate  # effective bs = batch_size * accumulate = 16 * 4 = 64
@@ -77,7 +78,9 @@ def train():
 
     # Configure run
     init_seeds()
+    print(data)
     data_dict = parse_data_cfg(data)
+    print(data_dict)
     train_path = data_dict['train']
     test_path = data_dict['valid']
     nc = 1 if opt.single_cls else int(data_dict['classes'])  # number of classes
@@ -174,6 +177,7 @@ def train():
         model.yolo_layers = model.module.yolo_layers  # move yolo layer indices to top level
 
     # Dataset
+    print(train_path)
     dataset = LoadImagesAndLabels(train_path, img_size, batch_size,
                                   augment=True,
                                   hyp=hyp,  # augmentation hyperparameters

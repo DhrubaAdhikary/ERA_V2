@@ -1,4 +1,4 @@
 classes=1
-train=data/tumor/custom.txt
-valid=data/tumor/custom.txt
-names=data/tumor/custom.names
+train=./data/tumor/custom.txt
+valid=./data/tumor/custom.txt
+names=./data/tumor/custom.names
