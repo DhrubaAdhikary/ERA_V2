@@ -393,4 +393,4 @@ After training for 100 Epochs, results look awesome!
 
 ![image](https://github.com/DhrubaAdhikary/ERA_V2/blob/47b23456f3fe6751465f8b01004ef76684524b32/S12/output/Validation_Image.png)
 
-![image](Prediction_set_image_set_10.png)
+![image](https://github.com/DhrubaAdhikary/ERA_V2/blob/ca57f6e891f195e6289387d4e4b83c78333c2c16/S12/output/Prediction_set_image_set_10.png)
