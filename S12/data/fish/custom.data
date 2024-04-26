@@ -1,0 +1,4 @@
+classes=7
+train=./data/fish/custom.txt
+valid=./data/fish/custom.txt
+names=./data/fish/custom.names
