@@ -13,7 +13,7 @@
 
 ## 🎯 Problem Statement
 
-1. Move your S11 assignment to Lightning first and then to Spaces such that:  
+1. Move your S10 assignment to Lightning first and then to Spaces such that:  
     1. (You have retrained your model on Lightning)  
     2. You are using Gradio  
     3. Your spaces app has these features:  
@@ -67,6 +67,6 @@ Few Samples of misclassified images,
 
 For this project, a Gradio interface has been set up to let users interact with the trained CIFAR10 model. Users can upload images, adjust GradCAM parameters, and view the model's predictions along with GradCAM visualizations and misclassified images.
 
-[Link](https://huggingface.co/spaces/sujitojha/CIFAR10_CustomResnet_GradCAM)
+[Link](https://huggingface.co/spaces/DhrubaAdhikary1991/object_classification_app)
 
 ![Gradio App](./images/gradio_app.png)
