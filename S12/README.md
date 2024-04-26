@@ -3,7 +3,7 @@ ________
 YoloV3 Simplified for training on Colab with custom dataset. 
 
 _A Collage of Training images_
-![image](https://github.com/theschoolofai/YoloV3/blob/master/output/train.png)
+![image](https://github.com/DhrubaAdhikary/ERA_V2/blob/47b23456f3fe6751465f8b01004ef76684524b32/S12/output/Training_set_visual.png)
 
 
 We have added a very 'smal' Coco sample imageset in the folder called smalcoco. This is to make sure you can run it without issues on Colab.
@@ -63,7 +63,7 @@ As you can see in the collage image above, a lot is going on, and if you are cre
 
 ** Training Set Visualized **
 
-![alt text](ERA_V2/S12/output/Training_set_visual.png)
+![alt text](https://github.com/DhrubaAdhikary/ERA_V2/blob/47b23456f3fe6751465f8b01004ef76684524b32/S12/output/Training_set_visual.png)
 
 
 
@@ -391,4 +391,4 @@ Model Bias Summary:    layer        regression        objectness    classificati
 **Results**
 After training for 100 Epochs, results look awesome!
 
-![image](ERA_V2/S12/output/Validation_Image.png)
+![image](https://github.com/DhrubaAdhikary/ERA_V2/blob/47b23456f3fe6751465f8b01004ef76684524b32/S12/output/Validation_Image.png)
