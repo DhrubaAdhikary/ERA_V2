@@ -392,3 +392,5 @@ Model Bias Summary:    layer        regression        objectness    classificati
 After training for 100 Epochs, results look awesome!
 
 ![image](https://github.com/DhrubaAdhikary/ERA_V2/blob/47b23456f3fe6751465f8b01004ef76684524b32/S12/output/Validation_Image.png)
+
+![image](Prediction_set_image_set_10.png)
