@@ -1,49 +1,10 @@
-# 🌐 ERA2 Session 11 Assignment 🌐
+# 🌐 ERA2 Session 14 Assignment 🌐
 
 ## Problem Statement
-1. Check this Repo out: https://github.com/kuangliu/pytorch-cifar  
-2. (Optional) You are going to follow the same structure for your Code (as a reference). So Create:  
-    1. models folder - this is where you'll add all of your future models. Copy resnet.py into this folder, this file should only have ResNet 18/34 models. **Delete Bottleneck Class**  
-    2. main.py - from Google Colab, now onwards, this is the file that you'll import (along with the model). Your main file shall be able to take these params or you should be able to pull functions from it and then perform operations, like (including but not limited to):  
-        1. training and test loops  
-        2. data split between test and train  
-        3. epochs  
-        4. batch size  
-        5. which optimizer to run  
-        6. do we run a scheduler?  
-    3. utils.py file (or a folder later on when it expands) - this is where you will add all of your utilities like:  
-        1. image transforms,  
-        2. gradcam,  
-        3. misclassification code,  
-        4. tensorboard related stuff  
-        5. advanced training policies, etc  
-        6. etc  
-3. Your assignment is to build the above training structure. Train ResNet18 on Cifar10 for 20 Epochs. The assignment must:  
-    1. pull your Github code to google colab (don't copy-paste code)  
-    2. prove that you are following the above structure  
-    3. that the code in your google collab notebook is NOTHING.. barely anything. There should not be any function or class that you can define in your Google Colab Notebook. Everything must be imported from all of your other files  
-    4. your colab file must:  
-        1. train resnet18 for 20 epochs on the CIFAR10 dataset  
-        2. show loss curves for test and train datasets  
-        3. show a gallery of 10 misclassified images  
-        4. show gradcamLinks to an external site. output on 10 misclassified images. Remember if you are applying GradCAM on a channel that is less than 5px, then please don't bother to submit the assignment. 😡🤬🤬🤬🤬  
-    5. Once done, upload the code to GitHub, and share the code. This readme must link to the main repo so we can read your file structure.  
-    6. Train for 20 epochs  
-    7. Get 10 misclassified images  
-    8. Get 10 GradCam outputs on any misclassified images (remember that you MUST use the library we discussed in the class)  
-    9. Apply these transforms while training:  
-        1. RandomCrop(32, padding=4)  
-        2. CutOut(16x16)  
-4. Assignment Submission Questions:
+Use the S11/13 code that was shared earlier if you don't have your own. 
 
-    1. Share the COMPLETE code of your model.py or the link for it  
-    2. Share the COMPLETE code of your utils.py or the link for it  
-    3. Share the COMPLETE code of your main.py or the link for it  
-    4. Copy-paste the training log (cannot be ugly)  
-    5. Copy-paste the 10/20 Misclassified Images Gallery  
-    6. Copy-paste the 10/20 GradCam outputs Gallery  
-    7. Share the link to your MAIN repo  
-    8. Share the link to your README of Assignment  (cannot be in the MAIN Repo, but Assignment 11 repo)  
+1. Train any (pytorch or lightning) model on SageMaker and share the screenshot of the final logs.
+2. Train any (pytorch or lightning) model on EC2 and share the screenshot of the final logs.
 
 ## Solution
 This is a repository for the implementation of ResNet18 model on the CIFAR10 dataset. The implementation follows a structured approach with separate files for models, main code, and utilities.
@@ -80,3 +41,61 @@ The **GradCam output on 10 misclassified images** is shown below:
 
 ## Screengrab of EC2 and Sagemaker connected in Remote developement mode inside VS code 
 ![remoteDevelopemetMode](./images/Screenshot%202024-05-04%20at%2012.24.29 AM.png)
+
+
+## logs 
+Epoch: 0,Loss=0.20 Batch_id=97 Accuracy=93.80: 100%|██████████| 98/98 [00:36<00:00,  2.66it/s]
+Test set: Average loss: 0.0007, Accuracy: 9013/10000 (90.13%)
+
+Epoch: 1,Loss=0.24 Batch_id=97 Accuracy=92.47: 100%|██████████| 98/98 [00:37<00:00,  2.62it/s]
+Test set: Average loss: 0.0007, Accuracy: 8923/10000 (89.23%)
+
+Epoch: 2,Loss=0.25 Batch_id=97 Accuracy=91.29: 100%|██████████| 98/98 [00:37<00:00,  2.58it/s]
+Test set: Average loss: 0.0007, Accuracy: 8929/10000 (89.29%)
+
+Epoch: 3,Loss=0.28 Batch_id=97 Accuracy=90.91: 100%|██████████| 98/98 [00:38<00:00,  2.57it/s]
+Test set: Average loss: 0.0010, Accuracy: 8652/10000 (86.52%)
+
+Epoch: 4,Loss=0.27 Batch_id=97 Accuracy=90.77: 100%|██████████| 98/98 [00:38<00:00,  2.55it/s]
+Test set: Average loss: 0.0010, Accuracy: 8623/10000 (86.23%)
+
+Epoch: 5,Loss=0.30 Batch_id=97 Accuracy=91.19: 100%|██████████| 98/98 [00:38<00:00,  2.54it/s]
+Test set: Average loss: 0.0009, Accuracy: 8681/10000 (86.81%)
+
+Epoch: 6,Loss=0.27 Batch_id=97 Accuracy=91.29: 100%|██████████| 98/98 [00:39<00:00,  2.51it/s]
+Test set: Average loss: 0.0008, Accuracy: 8717/10000 (87.17%)
+
+Epoch: 7,Loss=0.26 Batch_id=97 Accuracy=91.73: 100%|██████████| 98/98 [00:39<00:00,  2.51it/s]
+Test set: Average loss: 0.0008, Accuracy: 8830/10000 (88.30%)
+
+Epoch: 8,Loss=0.21 Batch_id=97 Accuracy=92.09: 100%|██████████| 98/98 [00:39<00:00,  2.50it/s]
+Test set: Average loss: 0.0011, Accuracy: 8658/10000 (86.58%)
+
+Epoch: 9,Loss=0.21 Batch_id=97 Accuracy=92.22: 100%|██████████| 98/98 [00:39<00:00,  2.49it/s]
+Test set: Average loss: 0.0007, Accuracy: 8962/10000 (89.62%)
+
+Epoch: 10,Loss=0.25 Batch_id=97 Accuracy=92.64: 100%|██████████| 98/98 [00:39<00:00,  2.50it/s]
+Test set: Average loss: 0.0009, Accuracy: 8782/10000 (87.82%)
+
+Epoch: 11,Loss=0.19 Batch_id=97 Accuracy=92.81: 100%|██████████| 98/98 [00:39<00:00,  2.49it/s]
+Test set: Average loss: 0.0008, Accuracy: 8873/10000 (88.73%)
+
+Epoch: 12,Loss=0.23 Batch_id=97 Accuracy=93.02: 100%|██████████| 98/98 [00:39<00:00,  2.49it/s]
+Test set: Average loss: 0.0006, Accuracy: 9181/10000 (91.81%)
+
+Epoch: 13,Loss=0.19 Batch_id=97 Accuracy=93.45: 100%|██████████| 98/98 [00:39<00:00,  2.49it/s]
+Test set: Average loss: 0.0006, Accuracy: 9120/10000 (91.20%)
+
+Epoch: 14,Loss=0.31 Batch_id=97 Accuracy=93.61: 100%|██████████| 98/98 [00:39<00:00,  2.48it/s]
+Test set: Average loss: 0.0007, Accuracy: 9056/10000 (90.56%)
+
+Epoch: 15,Loss=0.19 Batch_id=97 Accuracy=93.96: 100%|██████████| 98/98 [00:39<00:00,  2.48it/s]
+Test set: Average loss: 0.0007, Accuracy: 9046/10000 (90.46%)
+
+Epoch: 16,Loss=0.15 Batch_id=97 Accuracy=94.18: 100%|██████████| 98/98 [00:39<00:00,  2.49it/s]
+Test set: Average loss: 0.0007, Accuracy: 9086/10000 (90.86%)
+
+Epoch: 17,Loss=0.26 Batch_id=97 Accuracy=94.43: 100%|██████████| 98/98 [00:39<00:00,  2.46it/s]
+Test set: Average loss: 0.0006, Accuracy: 9214/10000 (92.14%)
+
+Finished Training
