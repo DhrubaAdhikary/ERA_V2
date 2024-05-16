@@ -150,3 +150,5 @@ S15_Gradio_app/three.jpg
 S15_Gradio_app/two.jpg
 S15_Gradio_app/best.pt
 S15_Gradio_app/last.pt
+hugging_space_app/object_classification_app/custom_resnet_model.pt
+hugging_space_app/object_detection_app/custom_yolo_v3.pt
