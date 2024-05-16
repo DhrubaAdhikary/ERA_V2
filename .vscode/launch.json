@@ -1,24 +1,28 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
+
+        
+    
         {
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/S12/train.py",
+            "program": "${workspaceFolder}/S15_Gradio_app/app_yolo9.py",
             "console": "integratedTerminal",
-            "args": [
-                "--data",
-                "/content/data/tumor/custom.data",
-                "--batch",
-                "2",
-                "--cache",
-                "--cfg",
-                "cfg/yolov3-custom.cfg",
-                "--epochs",
-                "3",
-                "--nosave"
-            ]
+            // ,"args": [
+            //     "--data",
+            //     "/content/data/tumor/custom.data",
+            //     "--batch",
+            //     "2",
+            //     "--cache",
+            //     "--cfg",
+            //     "cfg/yolov3-custom.cfg",
+            //     "--epochs",
+            //     "3",
+            //     "--nosave"
+            // ]
         }
     ]
 }

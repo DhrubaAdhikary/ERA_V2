@@ -148,3 +148,5 @@ S15/yolov9-main/runs/train/yolov9-c-tumor/weights/last.pt
 S15_Gradio_app/best_model.pt
 S15_Gradio_app/three.jpg
 S15_Gradio_app/two.jpg
+S15_Gradio_app/best.pt
+S15_Gradio_app/last.pt
