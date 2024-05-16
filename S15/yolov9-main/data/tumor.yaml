@@ -1,0 +1,9 @@
+train: /home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/S15/Tumor_yolo9/train/images  # train images (relative to 'path') 118287 images
+val: /home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/S15/Tumor_yolo9/valid/images  # val images (relative to 'path') 5000 images
+test: /home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/S15/Tumor_yolo9/test/images  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+
+# Classes
+nc: 1
+names: ['Tumor']
+

@@ -1,0 +1,150 @@
+S15/gelan-c.pt
+S15/leaves_detection
+S15/tumor
+S15/Citrus Leaves Detection.v3i.yolov9 (1).zip
+S15/yolov9-e.pt
+S15/yolov9-main.zip
+S15/gelan-c.pt
+S15/Tumor Annotate.v1i.yolov9.zip
+S15/yolov9-e.pt
+S15/Tumor Annotate.v1i.yolov9/test/images/volume_1_slice_48_jpg.rf.dfc46bc001f385cb5f3e9293836b9c5e.jpg
+S15/Tumor Annotate.v1i.yolov9/test/images/volume_6_slice_118_jpg.rf.0af7f4be2dabf77d702d6e53b38ad36b.jpg
+S15/Tumor Annotate.v1i.yolov9/test/labels/volume_1_slice_48_jpg.rf.dfc46bc001f385cb5f3e9293836b9c5e.txt
+S15/Tumor Annotate.v1i.yolov9/test/labels/volume_6_slice_118_jpg.rf.0af7f4be2dabf77d702d6e53b38ad36b.txt
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_34_jpg.rf.d060c6e10ad6ebaf725fd123d8b8f634.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_34_jpg.rf.db5c0b79e576886f7a11da3abac5690f.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_34_jpg.rf.fe2c946513172c03b5ed75e56e3dfaa4.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_46_jpg.rf.73ccf13f1693cdf2cdae07b85d498455.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_46_jpg.rf.78e18a0f7d6641843de35a04edb65de0.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_46_jpg.rf.1266b4becd650454000d7020d9150ecf.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_59_jpg.rf.2c463c4e8697d0f8bb4cb2dfd51d39f4.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_59_jpg.rf.75084f2b281f24ddf8413005c65a3664.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_59_jpg.rf.f7f87e4e75846250c02ed8c5dfada6b5.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_65_jpg.rf.20f4c681d9bb69457dd06a309ba7eaaa.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_65_jpg.rf.a9ce5b3b67c4360920bf3a4276c72b29.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_1_slice_65_jpg.rf.ffd828874d4d10391dbb9195df67c6f3.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_37_jpg.rf.7eccadf946c6933cb2a6ea94bedd90c1.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_37_jpg.rf.44a5bc480046501f622c06f63911ff54.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_37_jpg.rf.bbc91792450c459295cfeaaa35f50dfd.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_38_jpg.rf.7af8858d234e15583f07a7d41344bc43.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_38_jpg.rf.8e17b20437fd281857e51d30b37ef7d4.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_38_jpg.rf.bd4e8f02273b108d2161ea8687ac9e03.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_52_jpg.rf.5be8a1ea213c8109980a2bc26f66aff6.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_52_jpg.rf.5caa808c1f5ec8a12eab85387746cb30.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_52_jpg.rf.c70047fb7529dd48a26dd6c635918ed3.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_55_jpg.rf.4a0a7be97131414869f511058439c40f.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_55_jpg.rf.b7bf26312b396ae48e7b859128c73b35.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_55_jpg.rf.e164ef75746f0ed378ec6e124e5ef32e.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_66_jpg.rf.643fae1b640021147fb5d30390e47f3e.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_66_jpg.rf.bb9a88abd1fb0fc938e0edbd4eb3ac0f.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_66_jpg.rf.bb41d908cac75db698d5734ebfcf1e6c.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_79_jpg.rf.59e1cc7122d2aeaed97614cc7126f10a.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_79_jpg.rf.a0431237410383fe1af1ce2669b262f6.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_2_slice_79_jpg.rf.ccd667287ea389a0570e3d94b47d33a2.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_3_slice_94_jpg.rf.77ddc5046dff242f4f9fd895eb66503f.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_3_slice_94_jpg.rf.54342413dc2d73561d549a84f4c1bf28.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_3_slice_94_jpg.rf.d8bcab94cfe5609023b37a18defbc3ee.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_61_jpg.rf.4bec98e90fdaedf86a1630725935cdce.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_61_jpg.rf.acab80cedac5fc1bbc3bcbe91f916636.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_61_jpg.rf.cd98cf07109f7021e68d0b9604b99f47.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_73_jpg.rf.1ef6d5cbcc1f459c6b6ea33c907d9a08.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_73_jpg.rf.68fb19be8c65ec273ff6e34c244367ba.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_73_jpg.rf.b568d943e2f83117497c15c8bc4bbda3.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_109_jpg.rf.1826d6b617e8b09e06d8bd2ca60d3c6d.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_109_jpg.rf.60703363295a4fc869a6d8db1f9d82e0.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_4_slice_109_jpg.rf.d77805647fbbea82c5b24c7626924953.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_5_slice_123_jpg.rf.844bd92c220a0695d6a1f7df2b046ff9.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_5_slice_123_jpg.rf.eb74c6a1b25890f293075c4099f29f69.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_5_slice_123_jpg.rf.ebd1f989f0fb007b4019c1cf40149921.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_94_jpg.rf.4a0c6ec1916e94dcb613de1bb5770b3f.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_94_jpg.rf.a30cd1ac51c69dc903a80f4bccb00b72.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_94_jpg.rf.e446c46490da1a5d3e7714db16a10d79.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_95_jpg.rf.6ea0f46d762facf090bc14d5f3e0ceed.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_95_jpg.rf.93f16ea0ee4f473517cf76cef2266165.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_95_jpg.rf.e7c1648bfcdf966c03ed7d5110620dbf.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_103_jpg.rf.9f2d5225aab0df078a50ddc6be3b639b.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_103_jpg.rf.70d305b4bd1f1487e46a5a5f0258efb4.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_6_slice_103_jpg.rf.c3f69cd6fad04319feec4d8e026fe6c2.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_7_slice_36_jpg.rf.880b1245deea022ee4c7db655a552780.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_7_slice_36_jpg.rf.40666caffd0b4779b8487d62263e9980.jpg
+S15/Tumor Annotate.v1i.yolov9/train/images/volume_7_slice_36_jpg.rf.932789ba21f0e823ff9a10564227436d.jpg
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_34_jpg.rf.d060c6e10ad6ebaf725fd123d8b8f634.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_34_jpg.rf.db5c0b79e576886f7a11da3abac5690f.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_34_jpg.rf.fe2c946513172c03b5ed75e56e3dfaa4.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_46_jpg.rf.73ccf13f1693cdf2cdae07b85d498455.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_46_jpg.rf.78e18a0f7d6641843de35a04edb65de0.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_46_jpg.rf.1266b4becd650454000d7020d9150ecf.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_59_jpg.rf.2c463c4e8697d0f8bb4cb2dfd51d39f4.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_59_jpg.rf.75084f2b281f24ddf8413005c65a3664.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_59_jpg.rf.f7f87e4e75846250c02ed8c5dfada6b5.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_65_jpg.rf.20f4c681d9bb69457dd06a309ba7eaaa.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_65_jpg.rf.a9ce5b3b67c4360920bf3a4276c72b29.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_1_slice_65_jpg.rf.ffd828874d4d10391dbb9195df67c6f3.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_37_jpg.rf.7eccadf946c6933cb2a6ea94bedd90c1.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_37_jpg.rf.44a5bc480046501f622c06f63911ff54.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_37_jpg.rf.bbc91792450c459295cfeaaa35f50dfd.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_38_jpg.rf.7af8858d234e15583f07a7d41344bc43.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_38_jpg.rf.8e17b20437fd281857e51d30b37ef7d4.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_38_jpg.rf.bd4e8f02273b108d2161ea8687ac9e03.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_52_jpg.rf.5be8a1ea213c8109980a2bc26f66aff6.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_52_jpg.rf.5caa808c1f5ec8a12eab85387746cb30.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_52_jpg.rf.c70047fb7529dd48a26dd6c635918ed3.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_55_jpg.rf.4a0a7be97131414869f511058439c40f.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_55_jpg.rf.b7bf26312b396ae48e7b859128c73b35.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_55_jpg.rf.e164ef75746f0ed378ec6e124e5ef32e.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_66_jpg.rf.643fae1b640021147fb5d30390e47f3e.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_66_jpg.rf.bb9a88abd1fb0fc938e0edbd4eb3ac0f.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_66_jpg.rf.bb41d908cac75db698d5734ebfcf1e6c.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_79_jpg.rf.59e1cc7122d2aeaed97614cc7126f10a.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_79_jpg.rf.a0431237410383fe1af1ce2669b262f6.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_2_slice_79_jpg.rf.ccd667287ea389a0570e3d94b47d33a2.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_3_slice_94_jpg.rf.77ddc5046dff242f4f9fd895eb66503f.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_3_slice_94_jpg.rf.54342413dc2d73561d549a84f4c1bf28.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_3_slice_94_jpg.rf.d8bcab94cfe5609023b37a18defbc3ee.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_61_jpg.rf.4bec98e90fdaedf86a1630725935cdce.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_61_jpg.rf.acab80cedac5fc1bbc3bcbe91f916636.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_61_jpg.rf.cd98cf07109f7021e68d0b9604b99f47.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_73_jpg.rf.1ef6d5cbcc1f459c6b6ea33c907d9a08.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_73_jpg.rf.68fb19be8c65ec273ff6e34c244367ba.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_73_jpg.rf.b568d943e2f83117497c15c8bc4bbda3.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_109_jpg.rf.1826d6b617e8b09e06d8bd2ca60d3c6d.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_109_jpg.rf.60703363295a4fc869a6d8db1f9d82e0.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_4_slice_109_jpg.rf.d77805647fbbea82c5b24c7626924953.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_5_slice_123_jpg.rf.844bd92c220a0695d6a1f7df2b046ff9.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_5_slice_123_jpg.rf.eb74c6a1b25890f293075c4099f29f69.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_5_slice_123_jpg.rf.ebd1f989f0fb007b4019c1cf40149921.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_94_jpg.rf.4a0c6ec1916e94dcb613de1bb5770b3f.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_94_jpg.rf.a30cd1ac51c69dc903a80f4bccb00b72.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_94_jpg.rf.e446c46490da1a5d3e7714db16a10d79.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_95_jpg.rf.6ea0f46d762facf090bc14d5f3e0ceed.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_95_jpg.rf.93f16ea0ee4f473517cf76cef2266165.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_95_jpg.rf.e7c1648bfcdf966c03ed7d5110620dbf.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_103_jpg.rf.9f2d5225aab0df078a50ddc6be3b639b.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_103_jpg.rf.70d305b4bd1f1487e46a5a5f0258efb4.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_6_slice_103_jpg.rf.c3f69cd6fad04319feec4d8e026fe6c2.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_7_slice_36_jpg.rf.880b1245deea022ee4c7db655a552780.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_7_slice_36_jpg.rf.40666caffd0b4779b8487d62263e9980.txt
+S15/Tumor Annotate.v1i.yolov9/train/labels/volume_7_slice_36_jpg.rf.932789ba21f0e823ff9a10564227436d.txt
+S15/Tumor Annotate.v1i.yolov9/valid/images/volume_1_slice_75_jpg.rf.3b1823c936b68f536e0bad06216a7964.jpg
+S15/Tumor Annotate.v1i.yolov9/valid/images/volume_4_slice_97_jpg.rf.5c8ac862fd514e1cb2686d702bc61ced.jpg
+S15/Tumor Annotate.v1i.yolov9/valid/images/volume_5_slice_112_jpg.rf.e9a861a635f2052137b10f97bd26b46d.jpg
+S15/Tumor Annotate.v1i.yolov9/valid/labels/volume_1_slice_75_jpg.rf.3b1823c936b68f536e0bad06216a7964.txt
+S15/Tumor Annotate.v1i.yolov9/valid/labels/volume_4_slice_97_jpg.rf.5c8ac862fd514e1cb2686d702bc61ced.txt
+S15/Tumor Annotate.v1i.yolov9/valid/labels/volume_5_slice_112_jpg.rf.e9a861a635f2052137b10f97bd26b46d.txt
+S15/Tumor_yolo9/valid/images/volume_1_slice_75_jpg.rf.3b1823c936b68f536e0bad06216a7964.jpg
+S15/Tumor_yolo9/valid/images/volume_4_slice_97_jpg.rf.5c8ac862fd514e1cb2686d702bc61ced.jpg
+S15/Tumor_yolo9/valid/images/volume_5_slice_112_jpg.rf.e9a861a635f2052137b10f97bd26b46d.jpg
+S15/Tumor_yolo9/valid/labels/volume_1_slice_75_jpg.rf.3b1823c936b68f536e0bad06216a7964.txt
+S15/Tumor_yolo9/valid/labels/volume_4_slice_97_jpg.rf.5c8ac862fd514e1cb2686d702bc61ced.txt
+S15/Tumor_yolo9/valid/labels/volume_5_slice_112_jpg.rf.e9a861a635f2052137b10f97bd26b46d.txt
+S15/yolov9-main/runs/train/yolov9-c-leaves/weights/best.pt
+S15/yolov9-main/runs/train/yolov9-c-leaves/weights/last.pt
+S15/yolov9-main/runs/train/yolov9-c-leaves2/weights/best.pt
+S15/yolov9-main/runs/train/yolov9-c-leaves2/weights/last.pt
+S15/yolov9-main/runs/train/yolov9-c-leaves3/weights/best.pt
+S15/yolov9-main/runs/train/yolov9-c-leaves3/weights/last.pt
+S15/yolov9-main/runs/train/yolov9-c-tumor/weights/best.pt
+S15/yolov9-main/runs/train/yolov9-c-tumor/weights/last.pt
+S15_Gradio_app/best_model.pt
+S15_Gradio_app/three.jpg
+S15_Gradio_app/two.jpg

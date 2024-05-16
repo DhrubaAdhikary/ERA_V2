@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['tumor']
+
+roboflow:
+  workspace: dandare120-gmail-com
+  project: tumor-annotate
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/dandare120-gmail-com/tumor-annotate/1
