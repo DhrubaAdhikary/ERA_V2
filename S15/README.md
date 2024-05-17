@@ -25,7 +25,7 @@ This repository provides everything you need to get started with YOLO V9, includ
 Training YOLO V9 on an AWS EC2 instance is straightforward. Below is a screenshot demonstrating the setup and training process.
 
 # train yolov9 models on leaves dataset
-'''
+```
 !python "/home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/yolov9-main/train_dual.py" \
     --workers 8 --device 0 --batch 2 \
         --data "/home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/yolov9-main/data/leaves.yaml" --img 640 \
@@ -36,7 +36,7 @@ Training YOLO V9 on an AWS EC2 instance is straightforward. Below is a screensho
                             --min-items 0 \
                                 --epochs 100 \
                                     --close-mosaic 15
-'''
+```
 
 ![Training on EC2](images/training_on_ec2.png)
 
