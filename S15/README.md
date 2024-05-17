@@ -24,13 +24,27 @@ This repository provides everything you need to get started with YOLO V9, includ
 
 Training YOLO V9 on an AWS EC2 instance is straightforward. Below is a screenshot demonstrating the setup and training process.
 
+# YAML file 
+
+```
+train: /home/ec2-user/dhruv_UI/Computer_vision_work/S15/leaves_detection/train/images
+val: /home/ec2-user/dhruv_UI/Computer_vision_work/S15/leaves_detection/valid/images
+test: /home/ec2-user/dhruv_UI/Computer_vision_work/S15/leaves_detection/test/images
+
+nc: 4
+names: ['CVPD', 'Kanker', 'Melanosis', 'Sehat']
+
+```
+
+
+
 # train yolov9 models on leaves dataset
 ```
-!python "/home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/yolov9-main/train_dual.py" \
+!python "/home/ec2-user/dhruv_UI/Computer_vision_work/yolov9-main/train_dual.py" \
     --workers 8 --device 0 --batch 2 \
-        --data "/home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/yolov9-main/data/leaves.yaml" --img 640 \
-            --cfg "/home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/yolov9-main/models/detect/yolov9-c.yaml" \
-                --weights '/home/ec2-user/dhruv_Spain_LLM_UI/Computer_vision_work/S15/yolov9-e.pt' \
+        --data "/home/ec2-user/dhruv_UI/Computer_vision_work/yolov9-main/data/leaves.yaml" --img 640 \
+            --cfg "/home/ec2-user/dhruv_UI/Computer_vision_work/yolov9-main/models/detect/yolov9-c.yaml" \
+                --weights '/home/ec2-user/dhruv_UI/Computer_vision_work/S15/yolov9-e.pt' \
                     --name yolov9-c-leaves \
                         --hyp hyp.scratch-high.yaml \
                             --min-items 0 \
@@ -38,7 +52,7 @@ Training YOLO V9 on an AWS EC2 instance is straightforward. Below is a screensho
                                     --close-mosaic 15
 ```
 
-![Training on EC2](images/training_on_ec2.png)
+![Training on EC2](S15/Info/Training screenshot.png)
 
 ### Steps
 
