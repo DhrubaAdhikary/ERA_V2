@@ -24,7 +24,7 @@ This repository provides everything you need to get started with YOLO V9, includ
 
 Training YOLO V9 on an AWS EC2 instance is straightforward. Below is a screenshot demonstrating the setup and training process.
 
-# YAML file 
+### YAML file 
 
 ```
 train: /home/ec2-user/dhruv_UI/Computer_vision_work/S15/leaves_detection/train/images
@@ -38,7 +38,7 @@ names: ['CVPD', 'Kanker', 'Melanosis', 'Sehat']
 
 
 
-# train yolov9 models on leaves dataset
+### train yolov9 models on leaves dataset
 ```
 !python "/home/ec2-user/dhruv_UI/Computer_vision_work/yolov9-main/train_dual.py" \
     --workers 8 --device 0 --batch 2 \
@@ -52,18 +52,8 @@ names: ['CVPD', 'Kanker', 'Melanosis', 'Sehat']
                                     --close-mosaic 15
 ```
 
-![Training on EC2](S15/Info/Training screenshot.png)
+![Training on EC2]('/Info/Training screenshot.png')
 
-### Steps
-
-1. Launch an EC2 instance with a GPU (e.g., p2.xlarge).
-2. SSH into the instance and clone the YOLO V9 repository.
-3. Follow the installation steps outlined above.
-4. Upload your dataset to an S3 bucket.
-5. Start training:
-    ```sh
-    python train.py --data_path s3://your_s3_bucket/dataset --epochs 50
-    ```
 
 ## Metrics
 
@@ -73,21 +63,33 @@ After training, you can evaluate the performance of YOLO V9 using various metric
 
 | Metric   | Value  |
 |----------|--------|
-| Precision| 0.89   |
-| Recall   | 0.85   |
-| mAP      | 0.87   |
+| Precision| 0.97   |
+| Recall   | 0.94   |
 
-## Sample Outputs and Prediction
+#### Confusion MXx
+![Training Metrics Confusion Mxx]('/Info/confusion_matrix.png')
 
-Below are examples of YOLO V9's predictions on sample images.
+####
+![Training Metrics F1 curve for all classes]('/Info/F1_curve.png')
 
-### Sample Output
 
-![Sample Output](images/sample_output.png)
+## Sample Traioning and Validation set Images 
 
-### Prediction
+![Training Set]('/Info/train_batch0.jpg')
 
-To make predictions with YOLO V9, use the following command:
+![Validation Set]('/Info/val_batch2_labels.jpg')
 
-```sh
-python predict.py --image_path path/to/your/image.jpg
+### Prediction Output
+
+![Prediction Sample]('/Info/val_batch1_pred.jpg')
+
+
+## Gradio App link 
+
+https://huggingface.co/spaces/DhrubaAdhikary1991/YoloV9_Leaf_detection_job
+
+[App Overview on Hugging Face]('/Info/App Overview.png')
+
+[App prediction on Input image]('/Info/App_predition.png')
+
+
