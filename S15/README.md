@@ -88,8 +88,8 @@ After training, you can evaluate the performance of YOLO V9 using various metric
 
 https://huggingface.co/spaces/DhrubaAdhikary1991/YoloV9_Leaf_detection_job
 
-[App Overview on Hugging Face]('/Info/App Overview.png')
+[App Overview on Hugging Face]('S15/Info/App Overview.png')
 
-[App prediction on Input image]('/Info/App_predition.png')
+[App prediction on Input image]('S15/Info/App_predition.png')
 
 
