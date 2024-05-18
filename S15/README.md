@@ -24,7 +24,7 @@ This repository provides everything you need to get started with YOLO V9, includ
 
 Training YOLO V9 on an AWS EC2 instance is straightforward. Below is a screenshot demonstrating the setup and training process.
 
-### YAML file 
+### YAML file for custom dataset 
 
 ```
 train: /home/ec2-user/dhruv_UI/Computer_vision_work/S15/leaves_detection/train/images
@@ -52,7 +52,7 @@ names: ['CVPD', 'Kanker', 'Melanosis', 'Sehat']
                                     --close-mosaic 15
 ```
 
-![Training on EC2]('/Info/Training screenshot.png')
+![Training on EC2](./Info/Training screenshot.png)
 
 
 ## Metrics
@@ -67,28 +67,29 @@ After training, you can evaluate the performance of YOLO V9 using various metric
 | Recall   | 0.94   |
 
 #### Confusion MXx
-![Training Metrics Confusion Mxx]('/Info/confusion_matrix.png')
+![Training Metrics Confusion Mxx](./Info/confusion_matrix.png)
 
 ####
-![Training Metrics F1 curve for all classes]('/Info/F1_curve.png')
+![Training Metrics F1 curve for all classes](./Info/F1_curve.png)
 
 
 ## Sample Traioning and Validation set Images 
 
-![Training Set]('/Info/train_batch0.jpg')
+![Training Set](./Info/train_batch0.jpg)
 
-![Validation Set]('/Info/val_batch2_labels.jpg')
+![Validation Set](./Info/val_batch2_labels.jpg)
 
 ### Prediction Output
 
-![Prediction Sample]('/Info/val_batch1_pred.jpg')
+![Prediction Sample](./Info/val_batch1_pred.jpg)
 
 
 ## Gradio App link 
 
-https://huggingface.co/spaces/DhrubaAdhikary1991/YoloV9_Leaf_detection_job
+[Gradio App link ](https://huggingface.co/spaces/DhrubaAdhikary1991/YoloV9_Leaf_detection_job)
 
-![App Overview on Hugging Face](https://github.com/DhrubaAdhikary/ERA_V2/blob/412a8db5456863b58ce7ca032f392473787a7f09/S15/Info/App%20Overview.png)
+## App Screenshots 
+![App Overview on Hugging Face](./Info/App%20Overview.png)
 
 ![App prediction on Input image](./Info/App_predition.png)
 
