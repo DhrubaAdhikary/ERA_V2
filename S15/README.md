@@ -90,6 +90,6 @@ https://huggingface.co/spaces/DhrubaAdhikary1991/YoloV9_Leaf_detection_job
 
 ![App Overview on Hugging Face](https://github.com/DhrubaAdhikary/ERA_V2/blob/412a8db5456863b58ce7ca032f392473787a7f09/S15/Info/App%20Overview.png)
 
-![App prediction on Input image]('./Info/App_prediction.png')
+![App prediction on Input image]('/Info/App_prediction.png')
 
 
