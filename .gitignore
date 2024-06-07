@@ -152,3 +152,8 @@ S15_Gradio_app/best.pt
 S15_Gradio_app/last.pt
 hugging_space_app/object_classification_app/custom_resnet_model.pt
 hugging_space_app/object_detection_app/custom_yolo_v3.pt
+S18/__pycache__/config.cpython-312.pyc
+S18/__pycache__/dataset_file.cpython-312.pyc
+S18/__pycache__/model.cpython-312.pyc
+S18/__pycache__/train.cpython-312.pyc
+S18/runs/tmodel/events.out.tfevents.1717788517.invq4k4926g5DD.95791.0
