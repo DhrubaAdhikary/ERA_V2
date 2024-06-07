@@ -7,6 +7,7 @@ S15/yolov9-main.zip
 S15/gelan-c.pt
 S15/Tumor Annotate.v1i.yolov9.zip
 S15/yolov9-e.pt
+hugging_space_app/
 S15/Tumor Annotate.v1i.yolov9/test/images/volume_1_slice_48_jpg.rf.dfc46bc001f385cb5f3e9293836b9c5e.jpg
 S15/Tumor Annotate.v1i.yolov9/test/images/volume_6_slice_118_jpg.rf.0af7f4be2dabf77d702d6e53b38ad36b.jpg
 S15/Tumor Annotate.v1i.yolov9/test/labels/volume_1_slice_48_jpg.rf.dfc46bc001f385cb5f3e9293836b9c5e.txt
@@ -157,3 +158,6 @@ S18/__pycache__/dataset_file.cpython-312.pyc
 S18/__pycache__/model.cpython-312.pyc
 S18/__pycache__/train.cpython-312.pyc
 S18/runs/tmodel/events.out.tfevents.1717788517.invq4k4926g5DD.95791.0
+S18/runs/tmodel/events.out.tfevents.1717789941.invq4k4926g5DD.14569.0
+hugging_space_app/object_detection_app
+hugging_space_app/object_detection_app
