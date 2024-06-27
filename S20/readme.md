@@ -67,6 +67,12 @@ The notebook is structured as follows:
 ### Compression Ratio Calculation:
 - The compression ratio is calculated as the size of the original dataset divided by the size of the tokenized dataset.
 
+## Training
+the tokenization compression ratio looked like :
+![training](Training Screenshot.png)
+
+
+
 ## Results
 The notebook demonstrates the application of BPE on a Bengali dataset, aiming to achieve a compression ratio greater than 3. The results section in the notebook shows the achieved compression ratio and provides visualizations to support the findings.
 
