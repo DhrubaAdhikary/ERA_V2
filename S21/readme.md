@@ -31,3 +31,9 @@ n_embd: int = 256  # increased embedding dimension for better learning
 
 1. **IPYNB files** -> S21_Training_from_scratch.ipynb
 2. **Python File** -> S21_main.py
+
+
+## Hugging Face App link and Screenshot :
+**App link** https://huggingface.co/spaces/DhrubaAdhikary1991/GPT2_Custom_trained
+**Screenshot **
+![Hugging Face APP]("App.png")
