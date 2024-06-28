@@ -36,4 +36,4 @@ n_embd: int = 256  # increased embedding dimension for better learning
 ## Hugging Face App link and Screenshot :
 **App link** https://huggingface.co/spaces/DhrubaAdhikary1991/GPT2_Custom_trained
 **Screenshot **
-![Hugging Face APP]("App.png")
+![Hugging Face APP](App.png)
