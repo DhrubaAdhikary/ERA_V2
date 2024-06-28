@@ -17,7 +17,7 @@ This repository contains a GPT model implementation with several advanced featur
 
 ## Training Screenshot
 
-![Training Screenshot](S21\Training_screenshot.png)
+![Training Screenshot](Training_screenshot.png)
 
 
 ## Training was done on COlab T4 so :
