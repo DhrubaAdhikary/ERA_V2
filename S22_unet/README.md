@@ -1,26 +1,26 @@
-# ERA2-Session21-UNET
+# ERA2-Session22-UNET
 # UNet and Variational AutoEncoder
 
+
+## Objective
+
+1. UNet - Train with the below four variations of architecture/loss
+
+    MP+Tr+BCE
+    
+    MP+Tr+Dice Loss
+    
+    StrConv+Tr+BCE
+    
+    StrConv+Ups+Dice Loss
+    
+2. VAE - For the following dataset customize to have an input (image and label)
+
+    MNIST
+    
+    CIFAR10
+
 ## UNet
-
-![UNet Architecture](./assets/unet.gif)
-
-- UNet architecture has 3 main parts:
-
-  - Encoder
-  - Bottleneck Layer
-  - Decoder
-
-- The encoder block contains multiple convolutional layers which embed the input data
-
-- Bottleneck layer is a compressed low dimensional representation of the input data
-
-- Decoder block contains upsampling/transpose layers to reconstruct the data or generate output mask
-
-
-  ![UNet output](./assets/unet_output.png)
-
-
 - The model was trained using 4 different methods:
 
 | Method                                                       | Training Logs               |
