@@ -17,13 +17,6 @@
 
 - Decoder block contains upsampling/transpose layers to reconstruct the data or generate output mask
 
-- UNet is mostly used for segmentation problems. In this case, it is used to generate mask for the pets in the input data
-
-- UNet Model is trained on OxfordPets Dataset
-
-- It contains images of pets and their labels (mask)
-
-- On training, model learned to predict the mask output for the input image
 
   ![UNet output](./assets/unet_output.png)
 
@@ -40,11 +33,8 @@
 
 ## Variational AutoEncoder on MNIST
 
-![vae](./assets/vae.png)
-
 - AutoEncoders are a type of network architecture with a goal to learn a compressed representation (encoding) of input data
 - The encoder block of the AutoEncoder outpus encoding vector
-- In case of Variational AutoEncoders, instead of encoding vector, the encoder block will outputs two block which are the mean($\mu$) and standard deviation($\sigma$)
 - The decoder performs the sampling to generate the output 
 
 - Model is trained on MNIST dataset to regenerate the input image
