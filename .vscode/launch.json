@@ -9,7 +9,7 @@
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/S15_Gradio_app/app_yolo9.py",
+            "program": "${workspaceFolder}/S23/FastSAM.py",
             "console": "integratedTerminal",
             // ,"args": [
             //     "--data",
