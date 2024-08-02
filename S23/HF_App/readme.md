@@ -28,5 +28,5 @@ As illustrated above, FastSAM effectively identifies and segments documents, dis
 1. [FastSAM GitHub Repository](https://github.com/CASIA-IVA-Lab/FastSAM)
 2. File Refernce : \S23\FastSAM_example.ipynb
 
-![Prediction Output]([App_Output.png](https://github.com/DhrubaAdhikary/ERA_V2/blob/ada1f8212711c655732f3a7a74864837d383b4aa/S23/HF_App/examples/App_Output.PNG))
+![Prediction Output](https://github.com/DhrubaAdhikary/ERA_V2/blob/ada1f8212711c655732f3a7a74864837d383b4aa/S23/HF_App/examples/App_Output.PNG)
 
