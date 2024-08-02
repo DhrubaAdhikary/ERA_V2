@@ -23,10 +23,16 @@ In the demonstration below, the default FastSAM model is used.
 <img width="993" alt="People Detection with FastSAM" src="https://github.com/DhrubaAdhikary/ERA_V2/blob/ada1f8212711c655732f3a7a74864837d383b4aa/S23/HF_App/examples/App_Output.PNG">
 
 As illustrated above, FastSAM effectively identifies and segments documents, disregarding the background without any additional training. This makes it an excellent tool for cropping and background removal in images.
+### Predictions
+1. ![Prediction Output](https://github.com/DhrubaAdhikary/ERA_V2/blob/ada1f8212711c655732f3a7a74864837d383b4aa/S23/HF_App/examples/App_Output.PNG)
+2. ![Prediction Output2](https://github.com/DhrubaAdhikary/ERA_V2/blob/d81da70c742107f1e5a1fe488b9638a61d8b9a98/S23/HF_App/examples/Capture2.PNG)
+
+### HF files
+![Files](https://github.com/DhrubaAdhikary/ERA_V2/blob/d81da70c742107f1e5a1fe488b9638a61d8b9a98/S23/HF_App/examples/files_HF.PNG)
 
 ## References
 1. [FastSAM GitHub Repository](https://github.com/CASIA-IVA-Lab/FastSAM)
 2. File Refernce : \S23\FastSAM_example.ipynb
 
-![Prediction Output](https://github.com/DhrubaAdhikary/ERA_V2/blob/ada1f8212711c655732f3a7a74864837d383b4aa/S23/HF_App/examples/App_Output.PNG)
+
 
