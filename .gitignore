@@ -170,3 +170,11 @@ S22_unet/lightning_logs/version_0/checkpoints/epoch=29-step=46890.ckpt
 S23/weights/FastSAM-x.pt
 S23/examples/download.jpeg
 S23/examples/download_1.jpeg
+S24/learned_embeds_arcade.bin
+S24/learned_embeds_concept_art.bin
+S24/learned_embeds_doodle.bin
+S24/learned_embeds_manga.bin
+S24/learned_embeds_mid_journey_style.bin
+S24/learned_embeds_oil_style.bin
+S24/learned_embeds_pokemon.bin
+S24/learned_embeds.bin
