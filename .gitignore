@@ -186,3 +186,6 @@ s24_hugging_faces/styles/learned_embeds_matrix.bin
 s24_hugging_faces/styles/learned_embeds_oil.bin
 s24_hugging_faces/styles/learned_embeds_pokemon.bin
 s24_hugging_faces/styles/learned_embeds.bin
+ERA2-Session-30-Finetune-VLM-main/sample_val_data.csv
+ERA2-Session-30-Finetune-VLM-main/train_token.csv
+ERA2-Session-30-Finetune-VLM-main/llava_instruct_150k.json
