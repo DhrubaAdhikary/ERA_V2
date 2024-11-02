@@ -23,6 +23,8 @@ class llavadataset(Dataset):
       self.caption_dataset = self.caption_dataset[0:train_size]
     else:
       self.caption_dataset = self.caption_dataset[train_size:]
+      self.caption_dataset.reset_index(drop=True, inplace=True)
+
 
 
   def __len__(self):
@@ -85,3 +87,6 @@ batch = next(iter(train_dataloader))
 
 # Print the values in the batch
 print("Batch values:")
+
+for batch_idx, (images, target_captions) in enumerate(val_dataloader):
+  print(batch_idx)
