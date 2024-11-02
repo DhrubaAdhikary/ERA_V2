@@ -189,3 +189,5 @@ s24_hugging_faces/styles/learned_embeds.bin
 ERA2-Session-30-Finetune-VLM-main/sample_val_data.csv
 ERA2-Session-30-Finetune-VLM-main/train_token.csv
 ERA2-Session-30-Finetune-VLM-main/llava_instruct_150k.json
+ERA2-Session-30-Finetune-VLM-main/captions.pickle
+ERA2-Session-30-Finetune-VLM-main/captions.pickle
