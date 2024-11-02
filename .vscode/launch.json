@@ -9,7 +9,7 @@
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/S23/FastSAM.py",
+            "program": "${workspaceFolder}/ERA2-Session-30-Finetune-VLM-main/test.py",
             "console": "integratedTerminal",
             // ,"args": [
             //     "--data",
